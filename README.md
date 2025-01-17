@@ -3,7 +3,7 @@ A collaborative text editor made using Typescript and Websockets that implements
 
 
 ## TODO
-- [ ] optmize algorithm to use less memory and to be o(n)
+- [ ] optmize algorithm to use less memory and to be o(log n)
 - [ ] be able to use markdown
 - [ ] be able to have multiple documents
 - [ ] be able to export documents
